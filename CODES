@@ -1,11 +1,11 @@
 
 Instalar no pc:
-Node.js
+* Node.js
 
 Instalar no celular:
-Expo-go android
+* Expo-go android
 
 No terminal:
 
-Npx create-expo-app exemplo-
-Npm run start
+* Npx create-expo-app exemplo-
+* Npm run start
