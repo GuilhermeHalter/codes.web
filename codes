@@ -7,7 +7,6 @@ Instalar no celular:
 Expo-go android
 
 
-No terminal:
+## No terminal:
 Npx create-expo-app exemplo-
-
 Npm run start
