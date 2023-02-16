@@ -1,6 +1,6 @@
 
 Instalar no pc:
-* Node.js
+* Node.js- versão 18.14.0
 
 Instalar no celular:
 * Expo-go android
@@ -9,3 +9,8 @@ No terminal:
 
 * Npx create-expo-app exemplo-
 * Npm run start
+* Npm run start
+*
+*
+*
+*
