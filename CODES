@@ -9,8 +9,14 @@ No terminal:
 
 * Npx create-expo-app exemplo-
 * Npm run start
-* Npm run start
+* 
+*
+* git config --global --unset user.name
 *
 *
 *
 *
+*
+*
+
+
